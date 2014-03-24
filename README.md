@@ -22,9 +22,7 @@ When enabled, the `remove_action` function is exposed which allow developers to 
 ### Usage
 
 ```php
-<?php
 remove_action($hook, $function, $file);
-?>
 ```
 
 Information displayed by the Show Actions plugin will aid in finding the parameters for `remove_action`.
