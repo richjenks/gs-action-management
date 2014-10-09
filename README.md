@@ -26,3 +26,7 @@ remove_action($hook, $function, $file);
 ```
 
 Information displayed by the Show Actions plugin will aid in finding the parameters for `remove_action`.
+
+## Installation
+
+Copy `show_actions.php` and `remove_action.php` into the `plugins` directory and activate in the admin area.
